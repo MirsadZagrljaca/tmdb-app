@@ -1,4 +1,15 @@
 # Getting Started with Create React App
+Instal:
+npm i axios
+npm i react-player
+npm i react-router-dom
+
+Details:
+Project contain 4 main folders:
+1) Apis, with apis for main top 10 movies and tv shows
+2) Components  folder contain meni with routes to top 10 movies and shows
+3) Popup contain pages for detail display
+4) Tv&Movies folder contain main pages which contain files of top10 movies and tv shows
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
