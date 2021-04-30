@@ -1,0 +1,42 @@
+.contentWrap{
+    padding-left: 60px;
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.photo > img{
+  width: 600px;
+  height: 400px;
+}
+.movieDetails>h2{
+    
+    color: wheat;
+    padding: 15px;
+}
+.movieDetails > h3{
+    margin-right: 100px;
+    color: wheat;
+    font-size: 12px;
+    padding: 15px;
+    
+}
+
+.details button{
+    margin-left: 75px;
+    margin-top: 30px;
+    color: lightgray;
+    background-color: gray;
+}
+.details button:hover {
+    background-color: aliceblue;
+
+}
+.trailer{
+    padding-top: 20px;
+    padding-left: 38px;
+}
+.trailer h2{
+    color: wheat;
+    padding-left: 40px;
+}

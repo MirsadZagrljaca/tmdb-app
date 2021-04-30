@@ -1,0 +1,82 @@
+.tvShows{
+    
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.tvResult{
+    padding: 40px;
+}
+.tvPoster__wraper{
+    
+    align-items: center;
+    justify-content: center;
+    border: 1px solid grey;
+    background-color: #23272A;
+    border-radius: 8px;
+    padding: 10px;
+    
+    
+    
+}
+.tvPoster__wraper:hover{
+    cursor: pointer;
+    background-color: #2C2F33;
+}
+.tvPoster__wraper>h3{
+    
+    padding-left: 15px;
+}
+.tvPoster__wraper>h4{
+    padding-left: 15px;
+}
+
+img{
+    padding: 15px;
+   width: 600px;
+   height: 400px;
+}
+.tvResult  button{
+    
+    width: 90px;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: lightgray;
+    background-color: gray;
+    border-radius: 4px;
+    padding: 7px;
+}
+.tvResult button:hover{
+    background-color: aliceblue;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+}
+.searchbox {
+
+  justify-content: center;
+  display: block;
+  width: 90%;
+  padding: 10px;
+
+  border: none;
+  outline: none;
+  background-color: none;
+
+  border-color: #eee;
+  border-radius: 8px;
+
+  color: #000000;
+  font-weight: 200;
+  font-size: 20px;
+
+  transition: 0.4s ease-out;
+}
+.searchbox:focus {
+  box-shadow: 0px 0px 9px 4px;
+}

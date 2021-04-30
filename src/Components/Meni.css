@@ -1,0 +1,19 @@
+
+.meni__buttons{
+    padding: 20px;
+    
+}
+.meni__buttons button{
+    margin-left: 3px;
+    color: lightgray;
+    background-color: gray;
+}
+.meni__buttons button:hover{
+    background-color: aliceblue;
+}
+
+section{
+    justify-content: center;
+    padding: 15px;
+}
+
