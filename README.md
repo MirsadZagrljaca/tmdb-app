@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 Instal:
-npm i axios
-npm i react-player
-npm i react-router-dom
-
+1)npm i axios
+2)npm i react-player
+3)npm i react-router-dom
+4)npm i @material-ui/core
 Details:
 Project contain 4 main folders:
 1) Apis, with apis for main top 10 movies and tv shows
